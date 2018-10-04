@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "337394244020",
+    "firebase_url": "https://projetopi-476c2.firebaseio.com",
+    "project_id": "projetopi-476c2",
+    "storage_bucket": "projetopi-476c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337394244020:android:dae854b87d1f5877",
+        "android_client_info": {
+          "package_name": "com.tiqueliro.projetopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337394244020-2370tu7oe0c7filjt3rvqar0jr29m9qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVj5XMnQaqisMtozm68kO3W1D5hjq7D4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
