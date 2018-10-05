@@ -40,7 +40,7 @@ public class AdapterProduto extends BaseAdapter {
 
     @Override
     public long getItemId(int i) {
-        return listaDeProdutos.get(i).getId();
+        return 0;
     }
 
     @Override

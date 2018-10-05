@@ -8,15 +8,17 @@
     tools:context="com.tiqueliro.projetopi.LoginActivity">
 
     <EditText
-        android:layout_width="wrap_content"
         android:id="@+id/etLogin"
-        android:hint="Email"
-        android:layout_height="wrap_content" />
+        android:layout_width="458dp"
+        android:layout_height="wrap_content"
+        android:hint="Email" />
+
     <EditText
-        android:layout_width="wrap_content"
         android:id="@+id/etSenhaLogin"
-        android:hint="Senha"
-        android:layout_height="wrap_content" />
+        android:layout_width="458dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Senha" />
 
     <Button
         android:layout_width="wrap_content"

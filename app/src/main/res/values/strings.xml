@@ -15,4 +15,5 @@
         completions."
     </string>
     <string name="title_activity_lista">ListaActivity</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
